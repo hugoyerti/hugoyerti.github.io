@@ -129,9 +129,7 @@ a {
 	}
 	.message {
 		text-align: center;
-		background: url("background
-			
-			");
+		background: url("background.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: 50% 50%;
